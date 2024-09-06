@@ -1,0 +1,28 @@
+_repo: The-whore-b-A-poem_74357
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/ebooks/author/216
+description: ''
+gutenberg_issued: '2024-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74357'
+language: en
+pgterms:marc904: https://archive.org/details/bim_eighteenth-century_the-whore-a-poem-writt_whore-of-quality_1782/page/n1/mode/2up
+pgterms:marc905: 20240625024136author
+pgterms:marc906: '1782'
+pgterms:marc907: GB
+production_note: Mairi, Daniel Lowe, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The whore : $b A poem'
+url: http://www.gutenberg.org/ebooks/74357
