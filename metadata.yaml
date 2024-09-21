@@ -1,5 +1,8 @@
 _repo: The-whore-b-A-poem_74357
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74357-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/ebooks/author/216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74357#The-whore-b-A-poem
 gutenberg_issued: '2024-09-03'
 gutenberg_type: Text
 identifiers:
